@@ -19,11 +19,11 @@ Foram criados os seguintes componentes:
 
 • Decoradores concretos:
 
-  • `MultiLayeredCake` → adiciona $5 e prefixa a descrição;
+  - `MultiLayeredCake` → adiciona $5 e prefixa a descrição;
 
-  • `SprinklesCake` → adiciona $2 e sufixa a descrição;
+  - `SprinklesCake` → adiciona $2 e sufixa a descrição;
 
-  • `SayingCake` → não altera o custo, mas adiciona um texto customizado.
+  - `SayingCake` → não altera o custo, mas adiciona um texto customizado.
 
 O resultado final permite composições complexas de bolos, combinando decoradores de forma flexível e mantendo o sistema extensível e desacoplado.
 
