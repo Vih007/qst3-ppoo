@@ -60,7 +60,7 @@ Todos os prompts, respostas e decisões foram documentados nos commits correspon
 >  
 > ✅ **Resultado:** Implementação final validada com sucesso, apresentando o custo total de $29 para o bolo mais complexo
 
-## 🧩 Histórico de Commits Principais (Branch master)
+## 🧩 Histórico de Commits Principais 
 
 | Data       | Commit    | Descrição                                                                                             |
 | :--------  | :---------| :---------------------------------------------------------------------------------------------------- |
